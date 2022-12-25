@@ -1,0 +1,26 @@
+.buttons
+{
+    color: white;
+    background: cornflowerblue;
+    padding: 10px 40px;
+    margin: 10px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.labels {
+    color: #B4886B;
+    font-weight: bold;
+    width: 500px;
+  }
+.textboxs{
+  padding:10px;
+  border-radius:10px;
+  border-bottom:10px solid rgb(0, 81, 255);
+  box-shadow:0 0 10px 4px rgba(0,0,0,0.06);
+  font-family:inherit;
+    font-weight: bold;
+    font-size: inherit;
+    font-weight: bold;
+    width: 50px;
+}
